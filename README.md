@@ -2,7 +2,7 @@
 
 ## 1.	Propósito del documento
 
-Describir la arquitectura y configuración del servidor KepWareEX. 
+Describir la arquitectura y configuración del servidor KepwareEX. 
 
 ## 2. Alcance
 
